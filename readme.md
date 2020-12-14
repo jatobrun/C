@@ -1,3 +1,4 @@
+[TOC]
 # Aprendiendo C
 
 ## Introduccion
