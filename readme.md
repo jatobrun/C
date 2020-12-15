@@ -37,11 +37,12 @@ Para que el contenido de este repositorio te funcione *y puedas clonarlo* y modi
     8. En la ventana New, creas un nuevo cuaderno con el compilador de C.
 
 ## Index
-### Bases
-### Tipos de datos
-### Operadores
-### Control de Flujo
-### Bucles
-### Arreglos
-### Funciones
-### Pointers
+1. [Bases](https://github.com/jatobrun/C/blob/main/src/Basics.ipynb)
+2. [Tipos de Datos](https://github.com/jatobrun/C/blob/main/src/Data-Types.ipynb)
+3. [Operadores](https://github.com/jatobrun/C/blob/main/src/Operators.ipynb)
+4. [Control de Flujo](https://github.com/jatobrun/C/blob/main/src/Logic-Control.ipynb)
+5. [Bucles](https://github.com/jatobrun/C/blob/main/src/Loops.ipynb)
+6. [Arreglos](https://github.com/jatobrun/C/blob/main/src/Arrays.ipynb)
+7. [Funciones](https://github.com/jatobrun/C/blob/main/src/Functions.ipynb)
+8. [Pointers](https://github.com/jatobrun/C/blob/main/src/Pointers.ipynb)
+
